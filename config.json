@@ -1,0 +1,13 @@
+{
+    "Master":{    
+            "api_key": "nfTldgTPRb6yRXWB8J1c8Rq8Q8vvyKczJtMCjXV3NHwNo5qFk0zaCE7plT3Pw17E",
+            "api_secret": "sd0xST9MO3SZZ0OwrywJH2H6UAwEgKdr1RSetnNoUvPPDpLeD4OWpkJbbhvIQ39i"
+    },
+
+    "Satellites":[
+        {
+            "api_key": "odf293nC8shelDuH7WuIRhEksAtPxXKHVDYatVmY0JTBJjWYBU6ZUQJ6kAk4zg0t",
+            "api_secret": "hvh8AOpeG9RxhdYBRVNkxhrZVy6vqE6UWKDZLMPgQiR4ssWdcivWAASiK2kSxvvi"
+        }
+    ]    
+}

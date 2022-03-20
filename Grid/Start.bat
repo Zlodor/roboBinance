@@ -1,0 +1,3 @@
+py .\Grid.py
+pause
+
